@@ -3,7 +3,7 @@
 - 👨🏻‍💻 I’m working as iOS Developer
 - 🌱 I’m currently learning more about Machine Learning
 - 💞️ I’m looking to collaborate on any kind of new project
-- 📫 How to reach me Linkedin
+- 📫 You can reach me on Linkedin
 
 <!---
 Emin-Emini/Emin-Emini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
