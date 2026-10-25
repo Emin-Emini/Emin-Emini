@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emin-Emini
-- 👀 I’m interested in iOS Development and Machine Learning
-- 👨🏻‍💻 I’m working as iOS Developer
+- 👀 I’m interested in Software Development and Machine Learning
+- 👨🏻‍💻 I’m working as Senior iOS Developer and Engineer
 - 🌱 I’m currently learning more about Machine Learning
 - 💞️ I’m looking to collaborate on any kind of new project
 - 📫 You can reach me on Linkedin
